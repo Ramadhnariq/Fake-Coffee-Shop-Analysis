@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/minio/warehouse/Coffee/transactions.csv/efef4638-4063-40c3-819a-fa3a5a24a7bc/part.1 filter=lfs diff=lfs merge=lfs -text
