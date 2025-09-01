@@ -50,7 +50,7 @@ Dengan menggunakan Metabase, dashboard analitik dibangun untuk menampilkan berba
 ## Penggunaan
 1. **Clone repository**
    ```
-   git clone https://github.com/ramadhnariq/dbcoffeeshopAMR
+   git clone https://github.com/ramadhnariq/Fake-Coffee-Shop-Analysis
    cd minilake
    ```
 
